@@ -1,1 +1,1 @@
-A repo created for testing and practicing web design.
+A repo created for testing and practicing web design. Building a Google search page.
