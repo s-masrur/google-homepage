@@ -1,1 +1,3 @@
-A repo created for testing and practicing web design. Building a Google search page.
+Practising CSS and HTML.
+
+Designing Google search homeapage.
